@@ -91,6 +91,8 @@ docs/
 # IDE folder
 .idea/
 
+.vscode/
+
 # Build folder
 build/
 
